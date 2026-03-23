@@ -1,0 +1,15 @@
+{
+  "region": "Москва",
+  "lastName": "Иванов",
+  "firstName": "Иван",
+  "middleName": "Иванович",
+  "birthDate": "1990-05-15",
+  "passportSeries": "1234",
+  "passportNumber": "567890",
+  "phone": "+7 (900) 000-00-00",
+  "email": "ivanov@example.ru",
+  "vehiclePlate": "А123ВС77",
+  "vehicleVin": "WBAXXXXXXXX000000",
+  "applicationType": "Постановка ТС на учёт",
+  "description": "Прошу поставить транспортное средство на учёт."
+}
